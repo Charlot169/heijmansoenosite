@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "havenkwartier",
+    "title": "Sociale én duurzame huurwoningen",
+    "subtitle": "Havenkwartier, Zeewolde (fase 2)",
+    "summary": "In de nieuwbouwwijk Havenkwartier in Zeewolde bouwt Heijmans 47 sociale huurwoningen. 27 daarvan komen uit Heijmans' eigen houtskeletbouwfabriek in Heerenveen.",
+    "tags": [
+      "woningbouw",
+      "duurzaam",
+      "Zeewolde"
+    ],
+    "image": "projects/havenkwartier/images/Zeewolde_-_Havenkwartier_04.2e16d0ba.fill-480x854-c100.jpg"
+  },
+  {
+    "slug": "robot",
+    "title": "Automatische Constructie Robot",
+    "subtitle": "Innovatie in de Bouwsector",
+    "summary": "Een geavanceerde robotische arm voor geautomatiseerde constructietaken, ontworpen voor veiligheid en efficiëntie op de bouwplaats.",
+    "tags": [
+      "robotica",
+      "automatisering",
+      "innovatie"
+    ],
+    "image": "projects/robot/images/robot-hero.svg"
+  }
+]

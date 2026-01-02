@@ -1,0 +1,24 @@
+slug: "robot"
+title: "Automatische Constructie Robot"
+subtitle: "Innovatie in de Bouwsector"
+date: "2025-01-15"
+summary: "Een geavanceerde robotische arm voor geautomatiseerde constructietaken, ontworpen voor veiligheid en efficiëntie op de bouwplaats."
+image: "projects/robot/images/robot-hero.svg"
+
+tags:
+  - robotica
+  - automatisering
+  - innovatie
+
+sections:
+  - title: "Over de Robot"
+    content: "De constructierobot is ontworpen om repetitieve en gevaarlijke taken veiliger en sneller uit te voeren. Met geavanceerde sensoren en AI-gestuurde planning kan de robot zich aanpassen aan verschillende bouwscenario's."
+
+  - title: "Technische Specificaties"
+    content: "De robot beschikt over een bereik van 6 meter, nauwkeurigheid tot 2mm, en kan lasten tot 500kg verplaatsen. Het systeem is volledig geïntegreerd met bestaande bouwsoftware."
+
+  - title: "Veiligheid"
+    content: "Alle werkingen voldoen aan internationale veiligheidsnormen. De robot stopt onmiddellijk bij menselijk contact en is uitgerust met real-time monitoring voor alle kritieke functies."
+
+  - title: "Voordelen"
+    content: "Verhoogde productiviteit, verbeterde kwaliteit, verminderde arbeid op gevaarlijke hoogte, en aanzienlijke kostenbesparing op langere termijn."
