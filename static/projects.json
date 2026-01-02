@@ -1,5 +1,17 @@
 [
   {
+    "slug": "anderproject",
+    "title": "Mooie woningen in Weert",
+    "subtitle": "Anderproject, ook interresant",
+    "summary": "In de nieuwbouwwijk Havenkwartier in Zeewolde bouwt Heijmans 47 sociale huurwoningen. 27 daarvan komen uit Heijmans' eigen houtskeletbouwfabriek in Heerenveen.",
+    "tags": [
+      "woningbouw",
+      "duurzaam",
+      "Zeewolde"
+    ],
+    "image": "projects/anderproject/images/Zeewolde_-_Havenkwartier_04.2e16d0ba.fill-480x854-c100.jpg"
+  },
+  {
     "slug": "havenkwartier",
     "title": "Sociale én duurzame huurwoningen",
     "subtitle": "Havenkwartier, Zeewolde (fase 2)",

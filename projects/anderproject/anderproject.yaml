@@ -1,0 +1,50 @@
+slug: "anderproject"
+title: "Mooie woningen in Weert"
+subtitle: "Anderproject, ook interresant"
+date: "2026-01-01"
+summary: "In de nieuwbouwwijk Havenkwartier in Zeewolde bouwt Heijmans 47 sociale huurwoningen. 27 daarvan komen uit Heijmans' eigen houtskeletbouwfabriek in Heerenveen."
+image: "projects/anderproject/images/Zeewolde_-_Havenkwartier_04.2e16d0ba.fill-480x854-c100.jpg"
+
+tags:
+  - woningbouw
+  - duurzaam
+  - Zeewolde
+
+# Project timeline range (ISO dates)
+project_start: "2024-09-01"
+project_end: "2025-12-31"
+
+# Planning entries. Use ISO datetimes for start/end so the timeline can be calculated.
+planning:
+  - title: "Stroom er af"
+    start: "2025-01-10T16:00"
+    end:   "2025-01-11T21:00"
+    note: "Werkzaamheden en stroomonderbreking"
+
+  - title: "Geluidsoverlast"
+    start: "2025-01-20T05:00"
+    end:   "2025-01-20T17:00"
+    note: "Machineregeling tijdens heiwerk"
+
+  - title: "Weg afgesloten"
+    start: "2025-02-01T12:00"
+    end:   "2025-02-28T17:00"
+    note: "Omleidingen en asfaltwerkzaamheden"
+
+sections:
+  - title: "Duurzame samenwerking"
+    content: "Een aantal jaar geleden voerde Heijmans een pilotproject uit voor woningstichting Woonpalet, waarbij 10 sociale huurwoningen deels in houtskeletbouw werden uitgevoerd. Nu de houtskeletbouw doorontwikkeld is, wil de woningcorporatie een volgende duurzame stap zetten met volledige houtskeletbouw voor een deel van de 47 sociale huurwoningen. De overige 20 woningen worden traditioneel uitgevoerd. Deze 2 manieren van bouwen binnen 1 project vergen goede afstemming over de werkzaamheden en planning. Het bouwrijp maken van de grond en de oplevering vindt voor alle woningen tegelijkertijd plaats. Terwijl het monteren van houtskeletbouwwoningen veel sneller gaat dan het bouwen van de traditionele woningen."
+
+  - title: "Snelle doorontwikkeling"
+    content: "De afgelopen jaren heeft Heijmans meerdere projecten gerealiseerd met houtskeletbouwwoningen. Bij ieder project is er aandacht voor het verbeteren van het proces. Dat levert bijvoorbeeld aanpassingen op in de manier van monteren en de volgorde van taken, waardoor het proces nog gestroomlijnder verloopt en de woningen een snelle doorontwikkkeling doormaken. Om te zien wat er mogelijk was, bezocht Stichting Woonpalet de Heijmans houtskeletbouwfabriek in Heerenveen en was er veel overleg."
+
+  - title: "Kwalitatief wonen"
+    content: "Stichting Woonpalet koos voor een Heijmans Horizon houtskeletbouwwoning met een praktische compacte indeling, die daardoor erg geschikt is voor sociale huur. De afwerking van deze woningen is kwalitatief hoog. Elke woning bevat een luchtverwarmingssysteem, dat met luchtcirculatie en -filtratie zorgt voor een gezond leefklimaat. Deze woningen zijn daarmee niet alleen duurzaam en energiezuinig, maar ook erg comfortabel om in te wonen."
+    image: "projects/havenkwartier/images/_A9_0617.width-432.jpg"
+
+  - title: "Huurders eerder betrekken"
+    content: "Omdat het bouwproces van een houtskeletbouwwoning anders is dan bij een traditionele woning, heeft Stichting Woonpalet haar huurders veel eerder bij het bouwproces betrokken. Waar in de traditionele bouw keuzes voor afwerking zoals sanitair en keuken pas in de laatste fase gemaakt worden, gebeurt dit bij houtskeletbouw veel eerder. De gehele woning – inclusief de afwerking van badkamer en toilet – wordt namelijk in de fabriek gemaakt."
+
+  - title: "Natuurinclusief"
+    content: "Er zijn diverse ecologische voorzieningen voor vogels en vleermuizen opgenomen in de woningen. Zo zijn er nestvakken voor huismussen in de dakoverstek, kasten voor gierzwaluwen op de kopgevels en vleermuiskasten op de gevels van de traditionele woningen."
+    image: "projects/havenkwartier/images/Zeewolde_-_Havenkwartier_09.width-432.jpg"
