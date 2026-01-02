@@ -9,10 +9,17 @@
       return;
     }
     // render as single-row title per result
+    // determine base prefix from injected window.BASEURL (normalize)
+    const rawBase = (window.BASEURL || '');
+    let base = String(rawBase || '').trim();
+    if (base && !base.startsWith('/')) base = '/' + base;
+    if (base.endsWith('/')) base = base.slice(0, -1);
+
     results.innerHTML = items.map(p => {
+      const href = `${base}/projects/${p.slug}/`;
       return `
         <div class="result-row">
-          <a class="result-link" href="/projects/${p.slug}/">${p.title}</a>
+          <a class="result-link" href="${href}">${p.title}</a>
         </div>
       `;
     }).join('\n');
